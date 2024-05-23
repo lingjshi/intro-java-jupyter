@@ -1,0 +1,54 @@
+{
+	"items": [
+		{
+			"title": "Java Introduction",
+			"content": "0-intro.md"
+		},
+		{
+			"title": "Getting started with Java",
+			"content": "1-get-started-with-java.ipynb"
+		},
+		{
+			"title": "Try More Features",
+			"content": "2-try-more-features.ipynb"
+		}
+	],
+	"meta": {
+		"code_name": "intro-java-jupyter-02",
+		"tags": [
+			{
+				"title": "Java"
+			},
+			{
+				"title": "Jupyter"
+			}
+		],
+		"time": "0",
+		"poweredBy": "",
+		"authors": [
+			{
+				"name": "Lingjian Shi",
+				"email": "lingjshi@cisco.com"
+			}
+		],
+		"repo": "jupyter-sample",
+		"moduleOnly": false,
+		"hasResources": false,
+		"slug": "This is an introductory overview of Java.",
+		"byod": true,
+		"access": "public"	
+	},
+	"config": {
+		"id": "intro-java-jupyter",
+		"devEnv": {
+			"id": "devenv-app-jupyter-jre",
+			"defaultFile": "",
+			"default_content": ""
+		},
+		"sandbox": {},
+		"video": {
+			"link": "",
+			"type": ""
+		}
+	}
+}
